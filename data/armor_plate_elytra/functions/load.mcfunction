@@ -1,0 +1,1 @@
+schedule function armor_plate_elytra:item_merge 1
