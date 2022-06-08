@@ -19,7 +19,7 @@ jobs:
     - name: Create Artifact
       uses: actions/upload-artifact@v3
       with:
-        name: DragonCrafted87-Extra-Craftables
+        name: DragonCrafted87-Armor-Plated-Elytra
         path: |
           data/*
           pack.mcmeta
